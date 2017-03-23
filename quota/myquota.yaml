@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ResourceQuota
 metadata:
-  name: myquota
+  name: qwangquota
 spec:
   hard:
     cpu: "30"
